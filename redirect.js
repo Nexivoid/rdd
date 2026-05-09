@@ -33,7 +33,7 @@
         ]);
         platformSignals.unshift(platform);
       } catch {
-        // Fall back to the classic user agent checks below.
+        
       }
     }
 
